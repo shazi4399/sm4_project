@@ -1,0 +1,3 @@
+/home/zhanghao/Downloads/test_sm4/sm4_by_openssl/cmake-build-debug/CMakeFiles/demo.dir
+/home/zhanghao/Downloads/test_sm4/sm4_by_openssl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhanghao/Downloads/test_sm4/sm4_by_openssl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
