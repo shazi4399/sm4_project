@@ -10,8 +10,8 @@
 #include <cryptoTools/Crypto/PRNG.h>
 #include <libOTe/Base/BaseOT.h>
 #include <libOTe/TwoChooseOne/OTExtInterface.h>
-#include <libOTe/TwoChooseOne/IknpOtExtReceiver.h>
-#include <libOTe/TwoChooseOne/IknpOtExtSender.h>
+#include <libOTe/TwoChooseOne/Iknp/IknpOtExtReceiver.h>
+#include <libOTe/TwoChooseOne/Iknp/IknpOtExtSender.h>
 
 using namespace std;
 using namespace osuCrypto;

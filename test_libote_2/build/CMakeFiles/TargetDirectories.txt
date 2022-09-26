@@ -1,0 +1,3 @@
+/home/zhanghao/Downloads/sm4_project/test_libote_2/build/CMakeFiles/test_s.dir
+/home/zhanghao/Downloads/sm4_project/test_libote_2/build/CMakeFiles/edit_cache.dir
+/home/zhanghao/Downloads/sm4_project/test_libote_2/build/CMakeFiles/rebuild_cache.dir
