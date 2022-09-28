@@ -44,7 +44,7 @@ find_package(libOTe REQUIRED)
 #用于向当前工程添加存放源文件的子目录
 #这里定义了将src子目录加入工程
 ADD_SUBDIRECTORY("${PROJECT_SOURCE_DIR}/src")
-
+add_definitions(-DENABLE_IKNP=1)
 #INCLUDE_DIRECTORIES向工程添加多个特定的头文件搜索路径
 #路径之间用空格分割，可以使用双引号将它括起来，默认的行为是追加到当前的头文件搜索路径的
 INCLUDE_DIRECTORIES("${PROJECT_SOURCE_DIR}/include")
